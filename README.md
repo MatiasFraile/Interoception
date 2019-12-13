@@ -1,8 +1,10 @@
 # INTEROCEPTION TASKS CODES:  
+%
+![image](https://user-images.githubusercontent.com/58863799/70834012-fa231a00-1dd7-11ea-8b50-a08c97422306.png)  
 %  
 %-----------------------------------------------------%  
 %  
-% MADE OR MODIFIED BY: MFV  
+% MADE BY: MFV  
 % Contact Info: Matias.fraile95@gmail.com  
 %  
 %-----------------------------------------------------%  
@@ -14,9 +16,7 @@
 %  
 # Current Tasks:  
 %   
-% MotorTrackingHBD_Task  
+% MotorTrackingHBD_Task - Matlab
 %  
 %-----------------------------------------------------%   
-%
-%
-%
+
