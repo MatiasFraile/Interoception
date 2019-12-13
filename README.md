@@ -1,6 +1,9 @@
 # Motor-Tracking HeartBeat Detection (HBD) Task  
 Interoception Task for HBD  
 
+![GitHub Logo](D:\INECO\Paradigmas\HBD_Task\HBD_Task\data\GithubLogo)
+Format: ![Alt Text](url)
+
 %% A FULL DESCRIPTION OF THE TASK CAN BE FOUND HERE:  
 % Couto B, Salles A, Sedeno L, Peradejordi M, Barttfeld P, Canales-Johnson A, et al. The man who feels two hearts: the different   
 % pathways of interoception. Social cognitive and affective neuroscience. 2014;9(9):1253-60. Epub 2013/07/28.   
