@@ -1,5 +1,5 @@
 # Motor-Tracking HeartBeat Detection (HBD) Task  
-Interoception Task for HBD  
+Image Credit: Yoris et al., 2015
 
 ![Captura](https://user-images.githubusercontent.com/58863799/70832936-26896700-1dd5-11ea-83d9-3e0252b6a0f8.PNG)
 
