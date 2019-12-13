@@ -6,7 +6,6 @@ Image Credit: Yoris et al., 2015
 %% A FULL DESCRIPTION OF THE TASK CAN BE FOUND HERE:  
 % Couto B, Salles A, Sedeno L, Peradejordi M, Barttfeld P, Canales-Johnson A, et al. The man who feels two hearts: the   
 % different pathways of interoception. Social cognitive and affective neuroscience. 2014;9(9):1253-60. Epub 2013/07/28.     
-%  
 %% AND HERE:  
 % Yoris A, Esteves S, Couto B, Melloni M, Kichic R, Cetkovich M, et al. The roles of interoceptive sensitivity and metacognitive     
 % interoception in panic. Behavioral and brain functions : BBF. 2015;11:14. Epub 2015/04/19.    
