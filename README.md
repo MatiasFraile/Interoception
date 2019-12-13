@@ -1,7 +1,7 @@
 # Motor-Tracking HeartBeat Detection (HBD) Task  
 Interoception Task for HBD  
 
-![GitHub Logo](https://github.com/MatiasFraile/Interoception/issues/1#issue-537782488)
+![Captura](https://user-images.githubusercontent.com/58863799/70832936-26896700-1dd5-11ea-83d9-3e0252b6a0f8.PNG)
 Format: ![Alt Text](url)
 
 %% A FULL DESCRIPTION OF THE TASK CAN BE FOUND HERE:  
