@@ -48,7 +48,7 @@ Interoception Task for HBD
 %  questions answers), task duration.  
 %-------------------------------------------------------------------------%  
   
-%% REFERENCES:  
+# REFERENCES:  
 % De la Fuente A, Sedeno L, Vignaga SS, Ellmann C, Sonzogni S, Belluscio L, et al. Multimodal neurocognitive markers of interoceptive   
 % tuning in smoked cocaine. Neuropsychopharmacology : official publication of the American College of Neuropsychopharmacology. 2019.   
 % Epub 2019/03/15.  
