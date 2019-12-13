@@ -1,5 +1,4 @@
 # INTEROCEPTION TASKS CODES:  
-%
 ![Intero](https://user-images.githubusercontent.com/58863799/70834265-9f3df280-1dd8-11ea-8ca9-3393864b3aba.png)  
 %  
 %-----------------------------------------------------%  
