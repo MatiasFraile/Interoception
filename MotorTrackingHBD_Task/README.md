@@ -4,8 +4,8 @@ Image Credit: Yoris et al., 2015
 ![Captura](https://user-images.githubusercontent.com/58863799/70832936-26896700-1dd5-11ea-83d9-3e0252b6a0f8.PNG)
 
 %% A FULL DESCRIPTION OF THE TASK CAN BE FOUND HERE:  
-% Couto B, Salles A, Sedeno L, Peradejordi M, Barttfeld P, Canales-Johnson A, et al. The man who feels two hearts: the different   
-% pathways of interoception. Social cognitive and affective neuroscience. 2014;9(9):1253-60. Epub 2013/07/28.   
+% Couto B, Salles A, Sedeno L, Peradejordi M, Barttfeld P, Canales-Johnson A, et al. The man who feels two hearts: the   
+% different pathways of interoception. Social cognitive and affective neuroscience. 2014;9(9):1253-60. Epub 2013/07/28.     
 %  
 %% AND HERE:  
 % Yoris A, Esteves S, Couto B, Melloni M, Kichic R, Cetkovich M, et al. The roles of interoceptive sensitivity and metacognitive     
