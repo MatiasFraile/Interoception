@@ -1,4 +1,5 @@
-<img align="right" src="http://lpen.com.ar/wp-content/uploads/2016/06/logo1.png">  
+<img align="right" src="http://lpen.com.ar/wp-content/uploads/2016/06/logo1.png"> 
+
 # Motor-Tracking HeartBeat   Detection (HBD) Task  
 Image Credit: Yoris et al., 2015  
 
