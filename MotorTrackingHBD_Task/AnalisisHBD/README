@@ -1,0 +1,2 @@
+EEGLAB needs to be downloaded inside a subfolder named EEGLAB inside AnalisisHBD folder for script to run.
+Its used for paths purpouses.
