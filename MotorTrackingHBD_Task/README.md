@@ -7,45 +7,45 @@ Image Credit: Yoris et al., 2015
 ![Captura](https://user-images.githubusercontent.com/58863799/70832936-26896700-1dd5-11ea-83d9-3e0252b6a0f8.PNG)
   
   
-%% A FULL DESCRIPTION OF THE TASK CAN BE FOUND HERE:  
+# A FULL DESCRIPTION OF THE TASK CAN BE FOUND HERE:  
 % Couto B, Salles A, Sedeno L, Peradejordi M, Barttfeld P, Canales-Johnson A, et al. The man who feels two hearts: the   
 % different pathways of interoception. Social cognitive and affective neuroscience. 2014;9(9):1253-60. Epub 2013/07/28.     
-%% AND HERE:  
+# AND HERE:  
 % Yoris A, Esteves S, Couto B, Melloni M, Kichic R, Cetkovich M, et al. The roles of interoceptive sensitivity and metacognitive     
 % interoception in panic. Behavioral and brain functions : BBF. 2015;11:14. Epub 2015/04/19.    
 %---------------------------------------------%    
-%% Psychtoolbox - Ineco - 2019  
-%% Contact Info  
+# Psychtoolbox - Ineco - 2019  
+## Contact Info  
 % Orig: INECO - Bs.As  
 % Mod:  MFV December 2019  
 
 (Additional references at the end of the file)  
   
-%  Mail: matias.fraile95@gmail.com / fittipaldisol@gmail.com  
+##  Mail: matias.fraile95@gmail.com / fittipaldisol@gmail.com  
 %-------------------------------------------------------------------------%  
-%% Requirements  
+## Requirements  
 %  Psychtoolbox  
 %  Recorded Heartbeats  
 %  Change port if using EEG   
 %-------------------------------------------------------------------------%  
-%% Heartbeat detection (HBD) Task:  
+## Heartbeat detection (HBD) Task:  
 %  3 Conditions: Exteroception/Interoception/Feedback  
 %  Sequence: Extero-Extero-Intero-Intero-Feedback-Intero-Intero  
 %  2 Blocks per Condition - 2 min each - except for Feedback with only 1  
 %  block  
 %-------------------------------------------------------------------------%  
-%% Interoception:   
+## Interoception:   
 %  Tapping task following your OWN heartbeat.   
 %  Press Z every time you consider your heart beats.  
 %  Not allowed to abuse the system by pressing your veins or...  
 %  any other kind of cheat.  
 %-------------------------------------------------------------------------%  
-%% Exteroception:  
+## Exteroception:  
 %  2 Blocks: Sincronic --> Asincronic   
 %  Tapping task following an external heartbeat.  
 %  Press Z every time you hear the heart beating.  
 %-------------------------------------------------------------------------%  
-%% Outputs:  
+## Outputs:  
 %  Log Structure with: Secuencia(cell with block answers), name, sequence  
 %  order, task start latency, task end latency, questions (cell with  
 %  questions answers), task duration.  
