@@ -21,7 +21,7 @@ Image Credit: Yoris et al., 2015
 
 (Additional references at the end of the file)  
   
-##  Mail: matias.fraile95@gmail.com / fittipaldisol@gmail.com  
+##  Mail: matias.fraile95@gmail.com / fittipaldisol@gmail.com / pausalamone@gmail.com 
 %-------------------------------------------------------------------------%  
 ## Requirements  
   Psychtoolbox  
